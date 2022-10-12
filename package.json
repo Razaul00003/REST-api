@@ -1,0 +1,29 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "rest api node",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Razul00003/REST-api.git"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "razaul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Razul00003/REST-api/issues"
+  },
+  "homepage": "https://github.com/Razul00003/REST-api#readme",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
